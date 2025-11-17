@@ -20,3 +20,9 @@ var myVar = "Hello, world!";
 import numpy as np
 ```
 
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ]  q
+
